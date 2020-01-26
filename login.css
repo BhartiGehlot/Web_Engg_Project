@@ -1,0 +1,5 @@
+.container{
+background: url("cafe.png");
+    background-size: cover;
+    background-position: center;
+}
